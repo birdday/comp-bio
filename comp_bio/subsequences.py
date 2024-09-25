@@ -1,5 +1,5 @@
 # TODO: Create Sequence Matrix Class. Use these functions as methods. Avoids continuously passing around same args. 
-# Printed matricies have first sequence on the left, and second sequence on the Top.
+
 import numpy as np
 import matplotlib.pyplot as plt
 
